@@ -34,6 +34,6 @@ public class Main implements RequestHandler<Map<String, Object>, Map<String,Stri
         Map<String,String> response = new HashMap<>();
         response.put("code", shortUrlCode);
 
-        return Map.of();
+        return response;
     }
 }
