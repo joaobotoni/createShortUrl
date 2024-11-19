@@ -15,9 +15,6 @@
             <goals>
               <goal>shade</goal>
             </goals>
-            <configuration>
-              <createDependencyReducePom>false</createDependencyReducePom>
-            </configuration>
           </execution>
         </executions>
       </plugin>
