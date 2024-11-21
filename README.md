@@ -12,6 +12,8 @@
 <div display="flex">
    <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" alt="AWS Lambda">
    <img src="https://img.shields.io/badge/-Amazon%20S3-232F3E?style=flat&logo=amazons3&logoColor=569A31" alt="Amazon S3">
+  <img src="https://img.shields.io/badge/-UUID-232F3E?style=flat&logo=UUID&logoColor=569A31" alt="UUID">
+
 </div>
 
 * <p> AWS Lambda: Serviço de computação sem servidor da AWS que executa o código em resposta a eventos, como uma requisição do API Gateway. Não há necessidade de provisionamento de servidores.</p>
